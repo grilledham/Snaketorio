@@ -1,6 +1,6 @@
 # Snaketorio
 
-[![Snake preview](snake.png)]
+[![Snake preview](thumbnail.png)]
 
 ## Instructions
 
